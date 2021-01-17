@@ -1,3 +1,3 @@
-## 0.1.0 (Unreleased)
+## 1.0.0 (January 17, 2021)
 
-BREAKING CHANGES / FEATURES / ENHANCEMENTS / BUG FIXES:
+Initial release
